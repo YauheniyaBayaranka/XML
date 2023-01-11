@@ -1,1 +1,11 @@
-
+$ <?xml version="1.0" encoding="UTF-8" ?>
+<fields>
+    <ID>1</ID>
+    <Title>Пополнениекорзины</Title>
+    <Priority>high</Priority>
+    <Severity>Major</Severity>
+    <Environment>Samsung Galaxy</Environment>
+    <Steps>{'1': 'Зайти на сайт', '2': 'Найти товар', '3': 'Добавить в корзину'}</Steps>
+    <ExpectedResult>корзина пополнилась</ExpectedResult>
+    <ActualResult>корзина не пополнилась</ActualResult>
+</fields
