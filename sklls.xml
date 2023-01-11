@@ -1,0 +1,16 @@
+<root>
+    <soft_skills>
+        <item1>Communication skills</item1>
+        <item2>Analytical skills</item2>
+        <item3>Attention to detail</item3>
+        <item4>Teamwork</item4>
+        <item5>Focus on quality</item5>
+        <item6>Patient work</item6>
+    </soft_skills>
+    <hard_skills>
+        <point1>Knowledge of software testing types, methodologies, and techniques</point1>
+        <point2>Familiarity with certain bug tracking and test management tools</point2>
+        <point3>Mobile testing</point3>
+        <point4>Knowledge of a particular programming language</point4>
+    </hard_skills>
+</root>
